@@ -8,6 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+.pythonlibs/
 
 # Log files
 game_state.jsonl
+game_events.jsonl
+
+# Replit
+.uv/
